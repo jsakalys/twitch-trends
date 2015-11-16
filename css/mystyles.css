@@ -1,0 +1,80 @@
+body {
+	background:
+	url('../img/squairy_light.png'),
+	linear-gradient(45deg, rgba(15,15,84,1) 8%,rgba(23,59,109,1) 68%,rgba(23,59,109,1) 68%,rgba(23,59,109,1) 69%,rgba(23,59,109,1) 70%,rgba(23,59,109,1) 70%,rgba(23,59,109,1) 79%);
+	background-blend-mode: multiply;
+	font-family: 'Exo 2', sans-serif;
+	color: white;
+}
+
+
+
+.twitch-logo {
+width: 150px;
+margin: 25px;
+margin-right: 5px;
+margin-bottom: 5px;
+opacity: .9;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.trends {
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	letter-spacing: 1px;
+	font-size: 12px;
+}
+
+.blurb {
+	font-size: 10px;
+	margin: 25px;
+	width: 300px;
+}
+
+.blurb-text {
+	opacity: .7;
+}
+
+
+h2 {
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	margin-left: 25px;
+	margin-top: 50px;
+}
+
+h2 small {
+	color: white;
+	opacity: .7;
+}
+
+span.title, span.viewers {
+	display: block;
+	color: white;
+	text-shadow: 1px 1px #ff0000;
+}
+
+#games, #streams, #viewed {
+	width: 100%;
+	border: solid 0px red;
+	box-shadow: 1px 1px 50px 0px rgba(0,0,0,0.75);
+}
+
+#games div, #streams div, #viewed div {
+	display: inline-block;
+	float: left;
+	width: 10px;
+	box-sizing: border-box;
+	border: solid 1px rgba(255,255,255,.5);
+	background-size: cover;
+	height: 300px;
+	opacity: .5;
+	padding: 5px;
+}
+
+#games div:hover, #streams div:hover, #viewed div:hover {
+	opacity: 1;
+}
