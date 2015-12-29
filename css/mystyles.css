@@ -78,3 +78,7 @@ span.title, span.viewers {
 #games div:hover, #streams div:hover, #viewed div:hover {
 	opacity: 1;
 }
+
+.footer {
+	margin: 20px 0px;
+}
