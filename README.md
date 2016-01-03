@@ -8,5 +8,5 @@ Twitch Trends is a one-pager I whipped up using D3.js to visualize real-time vie
 * [D3.js](http://http://d3js.org/)
 * [Twitter Bootstrap](http://getbootstrap.com/)
 * [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
-* [Google Web Fonts (Exo 2 and Orbitron)](https://www.google.com/fonts)
-* [Subtle Patterns (Squairy Light)](http://subtlepatterns.com/squairy/)
+* [Google Web Fonts - Exo 2 & Orbitron](https://www.google.com/fonts)
+* [Subtle Patterns - Squairy Light](http://subtlepatterns.com/squairy/)
