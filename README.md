@@ -1,7 +1,7 @@
 ## Twitch Trends
 Twitch Trends is a one-pager I whipped up using D3.js to visualize real-time viewership trends in Twitch. It queries the Twitch API for the top 5 streams in several categories and displays them in proportion to their respective viewership.
 
-![Screenshot](/img/screenshot.png)
+<img src="img/screenshot.png" width="300">
 
 ### Credits
 * [Twitch Developers Program](http://dev.twitch.tv/)
